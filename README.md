@@ -27,5 +27,5 @@ The game follows the classic Arkanoid mechanics:
 
 
 ## 🖼️ Game Preview
-![Game Screenshot](game.png)
+![Game Screenshot](Game.png)
 
